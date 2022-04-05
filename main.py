@@ -1,4 +1,5 @@
 def add(a, b):
+    # Adds to number a and b and returns the result
     return a + b
 
 
